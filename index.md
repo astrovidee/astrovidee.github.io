@@ -4,7 +4,8 @@ layout: default
 
 # Vidya Venkatesan
 
-[GitHub](https://github.com/astrovidee) • [Google Scholar](#) • [ADS](#) • [CV](#)
+[Research](/research/) · [Teaching](/teaching/) · [CV](/cv/)
+
 
 Hi! I’m a grad student in astrophysics working on extrasolar planets (orbit fitting, climate, and stats).
 
