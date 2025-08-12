@@ -14,9 +14,9 @@ In **Venkatesan et al. (2025)**, we explored the habitability of eccentric extra
 [arXiv](https://arxiv.org/abs/YOUR-ARXIV-ID){:target="_blank" rel="noopener"}
 
 <!-- Simple single images (stacked) -->
-![CO₂ ice formation on eccentric orbits]({{ "/assets/img/research/eccentric_co2_ice.png" | relative_url }})
+![CO₂ ice formation on eccentric orbits]({{ "/eccentric_co2_ice.png" | relative_url }})
 
-![Astrobiology cover featuring our work]({{ "/assets/img/research/astrobio_cover.jpg" | relative_url }})
+![Astrobiology cover featuring our work]({{ "/cover.png" | relative_url }})
 
 <!-- Optional: 2-up image row (nice gallery look) -->
 <div class="img-row">
