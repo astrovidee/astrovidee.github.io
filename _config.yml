@@ -1,0 +1,10 @@
+title: Vidya Venkatesan
+description: Astrophysicist • Exoplanets • Statistics
+# simplest way to match sblunt.github.io style
+theme: jekyll-theme-minimal
+
+# Optional niceties (fill in as you like)
+logo: /assets/avatar.png      # add later if you want
+show_downloads: false
+github:
+  is_project_page: false
