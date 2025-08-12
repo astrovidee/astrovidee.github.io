@@ -2,7 +2,6 @@
 layout: default
 ---
 
-# Vidya Venkatesan
 
 [Research](/research/) · [Teaching](/teaching/) · [CV](/cv/)
 
